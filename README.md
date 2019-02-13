@@ -63,7 +63,7 @@ Follow the step then you can try to debug now.
 Flash this firmware and make sure wifi ssid and password and Think Speak key correct  
 If all parameters are correct then gas detect will start and LCD will diaplay prompt and every 30's will upload data to Think Speak  
 <img width=40% height=40% src="./images/GAS_IOT.jpg"/>
-<img width=50% height=50% src="./images/thinkSpeak.png"/>  
+<img width=50% height=50% src="./images/ThinkSpeak.png"/>  
 ALIENTEK mini STM32F103 development board gas detect and IOT function test  
 <img width=50% height=50% src="./images/GAS_IOT.gif"/>  
 Think Speak get upload data and realtime update(with time-lapse)  
